@@ -33,9 +33,9 @@ All members also contributed to the detailed Use Case specifications, Persistenc
 # Deliverable 2:
 | Member            | Tasks                                         | Effort (Hours) |
 |-------------------|-----------------------------------------------|----------------|
-|Abdullah Arafat    |Librarian and Head Librarian.                  |       35.      |   
-|Christos Cunning   |Book, Schedule and Library Item classes.       |         44     |   
-|Omar Abdelaziz     |Archive, Newspaper, and Music Album classes.   |        38.     |   
+|Abdullah Arafat    |Librarian and Head Librarian.                  |       35       |   
+|Christos Cunning   |Book, Schedule and Library Item classes.       |        44      |   
+|Omar Abdelaziz     |Archive, Newspaper, and Music Album classes.   |        38      |   
 |Rajaa Boukhelif    |Loan and Movie classes.                        |        40      |   
 |Sneha Singh        |Library and Booking classes.                   |         44     |   
 |Zarif Ashraf Zidane|Member and Online member classes.              |         39     |   
@@ -63,4 +63,4 @@ Classes were split up between all six members and each member was responsible fo
 |Zarif Ashraf Zidane|Change CSS style for Members to improve view on android application; Help with slides|       14       |   
 
 
-# Library_Management_System
+
