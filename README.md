@@ -50,7 +50,7 @@ Classes were split up between all six members and each member was responsible fo
 |Omar Abdelaziz     |Create Success Spectrum; Create Presentations and Assign Roles;Change DTOs Methods| 35|   
 |Rajaa Boukhelif    |Set up UI; Create Landing Page; Create UI for Pages; Meeting Minutes; Heroku Deployement; View Searches from Database; Create Item Pages and Database Linking; Create/Update Wiki Pages for Sprint 3; Edit Profile; Loans per member linked and viewable|         60|   
 |Sneha Singh        |Set up UI; Create Landing and Contact Page; Create Navigation Bar; Heroku Deployement; Create Issues for Sprint 3; Create backend linking for Booking Page; Hire Librarian with Linking |         55  |   
-|Zarif Ashraf Zidane|Improve UI; create backend linking for Online Member Registration, login and dashboard with UI Updates  |       46       |   
+|Zarif Ashraf Zidane|Improve UI; create backend linking for Online Member Registration, login and dashboard with UI Updates  |       50       |   
 
 # Deliverable 4:
 | Member            | Tasks                                         | Effort (Hours) |
